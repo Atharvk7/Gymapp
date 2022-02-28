@@ -1,4 +1,4 @@
-This is Gym app template created with reactjs
+This is Gym website template created with reactjs
 
 
 
